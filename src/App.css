@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #003f8c;
+  background-color: rgb(7, 167, 207);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,18 +37,18 @@
 
 /* Twitter */
 .fa-x-twitter {
-  background: #55acee;
+  background: #000000;
   color: white;
 }
 
 /* Linkedin */
 .fa-linkedin {
-  background: #55acee;
+  background: #000000;
   color: white;
 }
 
 /* Reddit */
 .fa-reddit {
-  background: #55acee;
+  background: #000000;
   color: white;
 }

@@ -9,9 +9,9 @@ const App = () => {
     <div className="App">
       <Confetti />
       <header className="App-header">
-        <h1 style={{ marginBottom: "0px" }}>Congratulations!!!</h1>
+        <h1 style={{ marginBottom: "0px" }}>Congratulations! This is a container created from abdu's Image !</h1>
         <p style={{ marginTop: "10px", marginBottom: "50px" }}>
-          You ran your first container.
+          This container is really something else..
         </p>
         <div>
           <a
